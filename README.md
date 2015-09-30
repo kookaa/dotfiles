@@ -3,6 +3,8 @@ dotfiles
 
 ## init
 
-```
-dotfilesLink.sh
+```sh
+$ cd ~
+$ git clone https://github.com/kookaa/dotfiles.git
+$ dotfiles/dotfilesLink.sh
 ```
